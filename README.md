@@ -1,4 +1,4 @@
-# Portfólio Débora Mafra
+# Portfólio Debora Mafra
 
 Este é o meu **portfólio pessoal 2.0**, criado para apresentar meus projetos, habilidades e crescimento profissional na área de **Análise de Dados**.
 
@@ -76,5 +76,5 @@ Este é o meu **portfólio pessoal 2.0**, criado para apresentar meus projetos, 
 
 ---
 
- Desenvolvido com dedicação por **Débora Mafra**.
+ Desenvolvido com dedicação por **Debora Mafra**.
 
